@@ -1,0 +1,41 @@
+@import url(
+  "https://fonts.googleapis.com/css?family=Lobster&display=swap")
+@import url(
+  "https://fonts.googleapis.com/css?family=Pacifico&display=swap")
+*{
+  margin:0px;
+  padding:0px;
+  
+}
+.navbar-brand{
+  font-family: 'Merriweather', serif;
+  font-size:28px;
+  font-weight:bold;
+  color: #bf4aa8;
+
+}
+
+
+
+
+nav{
+  background-color:#51d0de; 
+  
+   
+
+}
+li a{
+  margin-left:70px;
+  font-family: 'Lobster', cursive;
+  font-size:18px;
+
+
+}
+.nav-link{
+  color:#d9d9d9;
+}
+.nav-link:hover{
+  color:#bf4aa8;
+  transition:2s;
+  cursor:pointer;
+}
