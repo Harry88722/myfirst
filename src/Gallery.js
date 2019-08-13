@@ -40,28 +40,28 @@ class Gallery extends Component {
       <hr className="w-25 mx-auto pt-5 h-50"/>
       <div className="row">
         <div className="col-lg-4 col-md-2 col-12 mb-4">
-          <img src={this.state.imageone} className="img-fluid"/>
+          <img src={this.state.imageone} alt="pixelray" className="img-fluid"/>
             <button className=" mt-3  text-white" onClick={this.Changeone}>Change  </button>
             
         </div>
         <div className="col-lg-4 col-md-2 col-12 mb-4">
-          <img src={this.state.imagetwo} className="img-fluid"/>
+          <img src={this.state.imagetwo} className="img-fluid" alt="pixelray"/>
           <button className="  mt-3 text-white" onClick={this.Changetwo}>Change  </button>
         </div>
         <div className="col-lg-4 col-md-2 col-12 mb-4">
-          <img src={this.state.imagethree} className="img-fluid"/>
+          <img src={this.state.imagethree} className="img-fluid" alt="pixelray"/>
           <button className="   mt-3  text-white" onClick={this.Changethree}>Change  </button>
         </div>
         <div className="col-lg-4 col-md-2 col-12 mb-4">
-           <img src={this.state.imagefour} className="img-fluid"/>
+           <img src={this.state.imagefour} className="img-fluid" alt="pixelray"/>
            <button className="mt-3  text-white" onClick={this.Changefour}>Change  </button>
         </div>
         <div className="col-lg-4 col-md-2 col-12 mb-4">
-          <img src={this.state.imagefive} className="img-fluid"/>
+          <img src={this.state.imagefive} className="img-fluid" alt="pixelray"/>
           <button className="mt-3  text-white" onClick={this.Changefive}>Change  </button>
         </div>
         <div className="col-lg-4 col-md-2 col-12 mb-4">
-          <img src={this.state.imagesix} className="img-fluid"/>
+          <img src={this.state.imagesix} className="img-fluid" alt="pixelray"/>
           <button className="mt-3  text-white" onClick={this.Changesix}>Change  </button>
         </div>
       </div>

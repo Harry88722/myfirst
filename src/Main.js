@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import {carousel} from 'bootstrap-4-react';
 import'./Main.css';
 
 

@@ -22,19 +22,19 @@ class Message extends Component {
         </ul>
         <div className="carousel-inner">
           <div className="carousel-item active">
-            <img src="https://cdn.pixabay.com/photo/2018/01/11/11/01/wood-3075862__340.jpg "className="xyz"/>
+            <img src="https://cdn.pixabay.com/photo/2018/01/11/11/01/wood-3075862__340.jpg "className="xyz" alt="pixelray"/>
             <div className="carousel-caption">
               <h3>Save Trees</h3>
             </div>
           </div>
           <div className="carousel-item">
-            <img src="https://images.unsplash.com/photo-1525331336235-d3153d7e58cf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60 " className="xyz"/>
+            <img src="https://images.unsplash.com/photo-1525331336235-d3153d7e58cf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60 " className="xyz" alt="pixelray"/>
             <div className="carousel-caption">
               <h3>Avoid Plastic</h3>
             </div>   
           </div>
           <div className="carousel-item">
-            <img src="https://cdn.pixabay.com/photo/2015/06/01/06/32/hand-792920__340.jpg " className="xyz"/>
+            <img src="https://cdn.pixabay.com/photo/2015/06/01/06/32/hand-792920__340.jpg " className="xyz" alt="pixelray"/>
             <div className="carousel-caption">
               <h3>Save Water</h3>
             </div>   
@@ -55,7 +55,7 @@ class Message extends Component {
     <div className="container fluid ">
       <div className="row">
         <div className="col-lg-6 col-md-6 col-12 ">
-          <img src="https://images.pexels.com/photos/906107/pexels-photo-906107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" className="img-fluid  rounded-circle  for"/>
+          <img src="https://images.pexels.com/photos/906107/pexels-photo-906107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="pixelray" className="img-fluid  rounded-circle  for"/>
         </div>
         <div className="col-lg-6 col-md-6 col-12 ">
           <h3 className="mt-5"> Munia Khan</h3>
@@ -64,7 +64,7 @@ class Message extends Component {
           </p>
         </div>
         <div className="col-lg-6 col-md-6 col-12 mt-5">
-          <img src= "https://images.pexels.com/photos/6256/water-kitchen-black-design.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500" className="img-fluid rounded-circle"/>
+          <img src= "https://images.pexels.com/photos/6256/water-kitchen-black-design.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="pixelray" className="img-fluid rounded-circle"/>
         </div>
         <div className="col-lg-6 col-md-6 col-12">
           <h3 className="mt-5"> Antoine de Saint-Exupery</h3>
@@ -74,7 +74,7 @@ class Message extends Component {
           </p>
         </div>
         <div className="col-lg-6 col-md-6 col-12 mt-5 mb-5">
-          <img src= "https://images.pexels.com/photos/2409022/pexels-photo-2409022.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" className="img-fluid rounded-circle"/>
+          <img src= "https://images.pexels.com/photos/2409022/pexels-photo-2409022.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="pixelray"  className="img-fluid rounded-circle"/>
         </div>
         <div className="col-lg-6 col-md-6 col-12 mt-5">
           <h3 className="text-capitalize mt-3">Roberto Burle Marx </h3>

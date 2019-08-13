@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import {Navbar} from 'bootstrap-4-react';
 import {Link} from "react-router-dom";
 import './App.css';
 
